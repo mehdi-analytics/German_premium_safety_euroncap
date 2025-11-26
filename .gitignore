@@ -1,3 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+
+# macOS
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +219,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Python basics
+__pycache__/
+*.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# macOS
+.DS_Store
+
