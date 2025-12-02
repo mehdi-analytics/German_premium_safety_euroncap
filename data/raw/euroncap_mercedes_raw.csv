@@ -1,0 +1,11 @@
+brand,model,variant,rating_year,test_reference,stars,adult_occupant_pct,child_occupant_pct,vru_pct,safety_assist_pct,body_class_raw,doors,seats,powertrain_raw,drivetrain_raw,safety_pack,curb_weight_kg,notes,source_url 
+Mercedes-Benz,A-Class,A 180 D,2018,MB-A-180D-2018,5,96,91,92,75,small family car,5,,Diesel,4x2,Standard,1445,,https://www.euroncap.com/en/results/mercedes-benz/a-class/33728
+Mercedes-Benz,E-Class,E 300 DE,2024,MB-E-300DE-2024,5,92,90,84,87,Executive car,4,,Diesel Hybrid,4x4,Standard,2255,,https://www.euroncap.com/en/results/mercedes-benz/e-class/51910
+Mercedes-Benz,CLE,220 D,2025,MB-CLE-220D-2025,5,93,89,87,83,small family car,2,,Diesel,4x2,Standard,1870,,https://www.euroncap.com/en/results/mercedes-benz/cle+coupé/58374
+Mercedes-Benz,EQE SUV,350 4MATIC,2023,MB-EQESUV-350-4MATIC-2023,5,87,90,80,85,Large SUV,5,,Electric(BEV),NA,Standard,2580,,https://www.euroncap.com/en/results/mercedes-benz/eqe+suv/50192
+Mercedes-Benz,GLC,220D 4MATIC,2022,MB-GLC-220D-4MATIC-2022,5,92,90,74,84,small SUV,5,,Diesel,4x4,Standard,2000,,https://www.euroncap.com/en/results/mercedes-benz/glc/48755
+Mercedes-Benz,EQS,450+,2021,MB-EQS-450P-2021,5,96,91,76,80,Executive car,5,,Electric(BEV),4x2,Standard,2480,,https://www.euroncap.com/en/results/mercedes-benz/eqs/44203
+Mercedes-Benz,GLA,200D,2019,MB-GLA-200D-2019,5,96,90,79,75,small SUV,5,,Diesel,4x2,Standard,1635,,https://www.euroncap.com/en/results/mercedes-benz/gla-class/43185
+Mercedes-Benz,C-Class,220D,2017,MB-C-220D-2017,5,89,79,66,53,Large family car,2,,Diesel,4x4,Standard,1745,,https://www.euroncap.com/en/results/mercedes-benz/c-class+cabriolet/27817
+Mercedes-Benz,E-Class,220D,2016,MB-E-220D-2016,5,95,90,77,62,Executive car,4,,Diesel,NA,Standard,1680,,https://www.euroncap.com/en/results/mercedes-benz/e-class+%2f+cls-class/34677
+Mercedes-Benz,EQE,350+,2022,MB-EQE-350P-2022,5,95,91,83,81,Executive car,4,,Electric(BEV),4x2,Standard,2355,,https://www.euroncap.com/en/results/mercedes-benz/eqe/47133
